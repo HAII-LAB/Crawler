@@ -1,2 +1,2 @@
 # Crawler
-Python Web Crawler
+Python Crawler
